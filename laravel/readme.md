@@ -1,2 +1,2 @@
-#title
-phpinfo
+title
+>phpinfo
